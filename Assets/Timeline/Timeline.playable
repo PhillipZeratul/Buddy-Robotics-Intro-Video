@@ -833,10 +833,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 20.39999999999999
+    m_PostExtrapolationTime: 21.425056966145835
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (3)
-  - m_Start: 20.39999999999999
+  - m_Start: 21.425056966145835
     m_ClipIn: 0
     m_Asset: {fileID: 114126387674217350}
     m_UnderlyingAsset: {fileID: 7400000, guid: 1cecefceccf67433bb53ea75d30eab1f, type: 2}
@@ -898,10 +898,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 17.900000000000148
+    m_PostExtrapolationTime: 17.900000000000144
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 39.30000000000014
+  - m_Start: 40.32505696614598
     m_ClipIn: 0
     m_Asset: {fileID: 114959249187245714}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -1197,10 +1197,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 4.826589965820281
+    m_PostExtrapolationTime: 5.851646931966124
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 18.006022135416643
+  - m_Start: 19.031079101562486
     m_ClipIn: 0
     m_Asset: {fileID: 114325414999703852}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -1357,7 +1357,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 33.366666666666674
+  - m_Start: 34.391723632812514
     m_ClipIn: 0
     m_Asset: {fileID: 114427474677434630}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -1420,9 +1420,9 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 4.516666666666694
-    m_PreExtrapolationTime: 33.366666666666674
+    m_PreExtrapolationTime: 34.391723632812514
     m_DisplayName: TextFadeIn
-  - m_Start: 38.88333333333337
+  - m_Start: 39.90839029947921
     m_ClipIn: 0
     m_Asset: {fileID: 114466883067890836}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -1579,10 +1579,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 42.21666666666688
+    m_PostExtrapolationTime: 43.24172363281272
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (4)
-  - m_Start: 42.21666666666688
+  - m_Start: 43.24172363281272
     m_ClipIn: 0
     m_Asset: {fileID: 114095281720809186}
     m_UnderlyingAsset: {fileID: 7400000, guid: 1cecefceccf67433bb53ea75d30eab1f, type: 2}
@@ -1647,7 +1647,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 6.783333333333331
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 50.00000000000021
+  - m_Start: 51.02505696614605
     m_ClipIn: 0
     m_Asset: {fileID: 114434113179152440}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -1742,7 +1742,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 27.81666666666667
+  - m_Start: 28.841723632812514
     m_ClipIn: 0
     m_Asset: {fileID: 114958659954291568}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -1804,10 +1804,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 3.683333333333337
-    m_PreExtrapolationTime: 27.81666666666667
+    m_PostExtrapolationTime: 3.6833333333333407
+    m_PreExtrapolationTime: 28.841723632812514
     m_DisplayName: TextFadeIn
-  - m_Start: 32.50000000000001
+  - m_Start: 33.525056966145854
     m_ClipIn: 0
     m_Asset: {fileID: 114133710144040062}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -2164,40 +2164,16 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: 1.1792658487955734
-    m_BlendOutDuration: 1.2599999999999927
+    m_BlendOutDuration: 1.3833333333333329
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -2212,11 +2188,11 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Background
-  - m_Start: 11.690000000000007
+  - m_Start: 11.566666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 114144809338972348}
     m_UnderlyingAsset: {fileID: 114144809338972348}
-    m_Duration: 2.5500000000000007
+    m_Duration: 3.216666666666667
     m_ParentID: 0
     m_TimeScale: 1
     m_BlendCurve:
@@ -2228,8 +2204,8 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.2599999999999927
-    m_BlendOutDuration: 0.75
+    m_BlendInDuration: 1.3833333333333329
+    m_BlendOutDuration: 1.0211554209391274
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -2265,11 +2241,11 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_1
-  - m_Start: 13.490000000000007
+  - m_Start: 13.762177912394206
     m_ClipIn: 0
     m_Asset: {fileID: 114757788044573908}
     m_UnderlyingAsset: {fileID: 114757788044573908}
-    m_Duration: 2.2
+    m_Duration: 3.237822087605795
     m_ParentID: 0
     m_TimeScale: 1
     m_BlendCurve:
@@ -2281,8 +2257,8 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 0.75
-    m_BlendOutDuration: 0.7817236328125166
+    m_BlendInDuration: 1.0211554209391274
+    m_BlendOutDuration: 1.0666666666666664
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -2318,7 +2294,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_1 SubNode_1
-  - m_Start: 14.908276367187492
+  - m_Start: 15.933333333333334
     m_ClipIn: 0
     m_Asset: {fileID: 114310694798404788}
     m_UnderlyingAsset: {fileID: 114310694798404788}
@@ -2334,7 +2310,7 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 0.7817236328125166
+    m_BlendInDuration: 1.0666666666666664
     m_BlendOutDuration: 1.0976318359374915
     m_MixInCurve:
       serializedVersion: 2
@@ -2359,7 +2335,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_1 SubNode_1 FullScreen
-  - m_Start: 17.516666666666666
+  - m_Start: 18.54172363281251
     m_ClipIn: 0
     m_Asset: {fileID: 114514279962212532}
     m_UnderlyingAsset: {fileID: 114514279962212532}
@@ -2400,7 +2376,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Background
-  - m_Start: 20.0833333333333
+  - m_Start: 21.108390299479144
     m_ClipIn: 0
     m_Asset: {fileID: 114443455021902542}
     m_UnderlyingAsset: {fileID: 114443455021902542}
@@ -2441,7 +2417,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2
-  - m_Start: 22.59999999999998
+  - m_Start: 23.625056966145824
     m_ClipIn: 0
     m_Asset: {fileID: 114253400094319864}
     m_UnderlyingAsset: {fileID: 114253400094319864}
@@ -2482,7 +2458,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2 SubNode_1
-  - m_Start: 24.49999999999993
+  - m_Start: 25.525056966145772
     m_ClipIn: 0
     m_Asset: {fileID: 114283245754487726}
     m_UnderlyingAsset: {fileID: 114283245754487726}
@@ -2523,7 +2499,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2 SubNode_1 FullScreen
-  - m_Start: 27.06666666666665
+  - m_Start: 28.091723632812492
     m_ClipIn: 0
     m_Asset: {fileID: 114831800572176790}
     m_UnderlyingAsset: {fileID: 114831800572176790}
@@ -2540,7 +2516,7 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: 1.7499999999999467
-    m_BlendOutDuration: 1.7499999999999858
+    m_BlendOutDuration: 1.7499999999999822
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -2564,7 +2540,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2
-  - m_Start: 30.316666666666663
+  - m_Start: 31.341723632812506
     m_ClipIn: 0
     m_Asset: {fileID: 114559503286332146}
     m_UnderlyingAsset: {fileID: 114559503286332146}
@@ -2580,8 +2556,8 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.7499999999999858
-    m_BlendOutDuration: 1.6833333333333442
+    m_BlendInDuration: 1.7499999999999822
+    m_BlendOutDuration: 1.6833333333333371
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -2605,7 +2581,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2 SubNode_2 FullScreen
-  - m_Start: 32.88333333333332
+  - m_Start: 33.908390299479166
     m_ClipIn: 0
     m_Asset: {fileID: 114266394537801838}
     m_UnderlyingAsset: {fileID: 114266394537801838}
@@ -2621,8 +2597,8 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.6833333333333442
-    m_BlendOutDuration: 1.949999999999939
+    m_BlendInDuration: 1.6833333333333371
+    m_BlendOutDuration: 1.949999999999946
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -2646,7 +2622,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2
-  - m_Start: 35.93333333333338
+  - m_Start: 36.95839029947922
     m_ClipIn: 0
     m_Asset: {fileID: 114327306430818382}
     m_UnderlyingAsset: {fileID: 114327306430818382}
@@ -2662,7 +2638,7 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.949999999999939
+    m_BlendInDuration: 1.949999999999946
     m_BlendOutDuration: 1.7833333333332462
     m_MixInCurve:
       serializedVersion: 2
@@ -2687,7 +2663,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_2 SubNode_3 FullScreen
-  - m_Start: 39.150000000000134
+  - m_Start: 40.17505696614597
     m_ClipIn: 0
     m_Asset: {fileID: 114700297789820034}
     m_UnderlyingAsset: {fileID: 114700297789820034}
@@ -2728,7 +2704,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Background
-  - m_Start: 41.9500000000002
+  - m_Start: 42.97505696614604
     m_ClipIn: 0
     m_Asset: {fileID: 114697162887563564}
     m_UnderlyingAsset: {fileID: 114697162887563564}
@@ -2769,7 +2745,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_3
-  - m_Start: 44.50000000000021
+  - m_Start: 45.52505696614605
     m_ClipIn: 0
     m_Asset: {fileID: 114098700810243390}
     m_UnderlyingAsset: {fileID: 114098700810243390}
@@ -2810,7 +2786,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_3 SubNode_1
-  - m_Start: 47.18333333333355
+  - m_Start: 48.20839029947939
     m_ClipIn: 0
     m_Asset: {fileID: 114795855561015844}
     m_UnderlyingAsset: {fileID: 114795855561015844}
@@ -2851,7 +2827,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_3 SubNode_1 FullScreen
-  - m_Start: 50.00000000000021
+  - m_Start: 51.02505696614605
     m_ClipIn: 0
     m_Asset: {fileID: 114015909441075130}
     m_UnderlyingAsset: {fileID: 114015909441075130}
@@ -2892,7 +2868,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Background
-  - m_Start: 52.43333333333349
+  - m_Start: 53.45839029947933
     m_ClipIn: 0
     m_Asset: {fileID: 114719107568566422}
     m_UnderlyingAsset: {fileID: 114719107568566422}
@@ -2933,7 +2909,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_4
-  - m_Start: 55.55000000000017
+  - m_Start: 56.57505696614601
     m_ClipIn: 0
     m_Asset: {fileID: 114039245595332306}
     m_UnderlyingAsset: {fileID: 114039245595332306}
@@ -2974,7 +2950,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_4 SubNode_1
-  - m_Start: 58.75000000000017
+  - m_Start: 59.77505696614601
     m_ClipIn: 0
     m_Asset: {fileID: 114645261030287168}
     m_UnderlyingAsset: {fileID: 114645261030287168}
@@ -3015,7 +2991,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_4 SubNode_1 FullScreen
-  - m_Start: 61.80000000000015
+  - m_Start: 62.82505696614599
     m_ClipIn: 0
     m_Asset: {fileID: 114503390489084954}
     m_UnderlyingAsset: {fileID: 114503390489084954}
@@ -3032,7 +3008,7 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: 1.950000000000017
-    m_BlendOutDuration: 1.8333333333332575
+    m_BlendOutDuration: 1.8333333333333002
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -3068,7 +3044,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Background
-  - m_Start: 64.9666666666669
+  - m_Start: 65.9917236328127
     m_ClipIn: 0
     m_Asset: {fileID: 114591800801544602}
     m_UnderlyingAsset: {fileID: 114591800801544602}
@@ -3084,7 +3060,7 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 114410216451482430}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.8333333333332575
+    m_BlendInDuration: 1.8333333333333002
     m_BlendOutDuration: 1.0000000000002274
     m_MixInCurve:
       serializedVersion: 2
@@ -3121,7 +3097,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM vcam Node_5
-  - m_Start: 68.25
+  - m_Start: 69.2750569661458
     m_ClipIn: 0
     m_Asset: {fileID: 114297146418650614}
     m_UnderlyingAsset: {fileID: 114297146418650614}
@@ -3245,10 +3221,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 68.25
+    m_PostExtrapolationTime: 69.2750569661458
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (7)
-  - m_Start: 68.25
+  - m_Start: 69.2750569661458
     m_ClipIn: 0
     m_Asset: {fileID: 114873570239532848}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -3515,10 +3491,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 20.166666666666643
+    m_PostExtrapolationTime: 21.191723632812486
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (1)
-  - m_Start: 20.166666666666643
+  - m_Start: 21.191723632812486
     m_ClipIn: 0
     m_Asset: {fileID: 114355922769199228}
     m_UnderlyingAsset: {fileID: 7400000, guid: 1cecefceccf67433bb53ea75d30eab1f, type: 2}
@@ -3580,10 +3556,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 18.150000000000162
+    m_PostExtrapolationTime: 18.15000000000016
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 39.30000000000014
+  - m_Start: 40.32505696614598
     m_ClipIn: 0
     m_Asset: {fileID: 114473917700627162}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -3740,10 +3716,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 20.63333333333331
+    m_PostExtrapolationTime: 21.658390299479155
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (2)
-  - m_Start: 20.63333333333331
+  - m_Start: 21.658390299479155
     m_ClipIn: 0
     m_Asset: {fileID: 114749685713953560}
     m_UnderlyingAsset: {fileID: 7400000, guid: 1cecefceccf67433bb53ea75d30eab1f, type: 2}
@@ -3805,10 +3781,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 17.666666666666828
+    m_PostExtrapolationTime: 17.666666666666824
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 39.30000000000014
+  - m_Start: 40.32505696614598
     m_ClipIn: 0
     m_Asset: {fileID: 114367874047977018}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -3963,7 +3939,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 20.86666666666666
+  - m_Start: 21.891723632812504
     m_ClipIn: 0
     m_Asset: {fileID: 114415928161009858}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -4026,9 +4002,9 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 4.966666666666669
-    m_PreExtrapolationTime: 20.86666666666666
+    m_PreExtrapolationTime: 21.891723632812504
     m_DisplayName: TextFadeIn
-  - m_Start: 26.83333333333333
+  - m_Start: 27.858390299479172
     m_ClipIn: 0
     m_Asset: {fileID: 114638149758027398}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -4185,10 +4161,10 @@ MonoBehaviour:
     m_Recordable: 1
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 52.9500000000002
+    m_PostExtrapolationTime: 53.97505696614604
     m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (5)
-  - m_Start: 52.9500000000002
+  - m_Start: 53.97505696614604
     m_ClipIn: 0
     m_Asset: {fileID: 114584423108235936}
     m_UnderlyingAsset: {fileID: 7400000, guid: 1cecefceccf67433bb53ea75d30eab1f, type: 2}
@@ -4253,7 +4229,7 @@ MonoBehaviour:
     m_PostExtrapolationTime: 8.00929412841792
     m_PreExtrapolationTime: 0
     m_DisplayName: SubNodeFadeIn
-  - m_Start: 61.95929412841812
+  - m_Start: 62.98435109456396
     m_ClipIn: 0
     m_Asset: {fileID: 114336485885509744}
     m_UnderlyingAsset: {fileID: 7400000, guid: 18da27c74c4e54bae9d9d9ae0b83343d, type: 2}
@@ -4348,7 +4324,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 27.81666666666667
+  - m_Start: 28.841723632812514
     m_ClipIn: 0
     m_Asset: {fileID: 114611544734531686}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -4410,10 +4386,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 3.683333333333337
-    m_PreExtrapolationTime: 27.81666666666667
+    m_PostExtrapolationTime: 3.6833333333333407
+    m_PreExtrapolationTime: 28.841723632812514
     m_DisplayName: TextFadeIn
-  - m_Start: 32.50000000000001
+  - m_Start: 33.525056966145854
     m_ClipIn: 0
     m_Asset: {fileID: 114241826011539690}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -4644,7 +4620,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 33.366666666666674
+  - m_Start: 34.391723632812514
     m_ClipIn: 0
     m_Asset: {fileID: 114565255303532932}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -4707,9 +4683,9 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 4.516666666666694
-    m_PreExtrapolationTime: 33.366666666666674
+    m_PreExtrapolationTime: 34.391723632812514
     m_DisplayName: TextFadeIn
-  - m_Start: 38.88333333333337
+  - m_Start: 39.90839029947921
     m_ClipIn: 0
     m_Asset: {fileID: 114628779442582782}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -4998,7 +4974,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 20.63333333333331
+  - m_Start: 21.658390299479155
     m_ClipIn: 0
     m_Asset: {fileID: 114892353969590138}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
@@ -5060,10 +5036,10 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 17.266666666666765
-    m_PreExtrapolationTime: 20.63333333333331
+    m_PostExtrapolationTime: 17.26666666666676
+    m_PreExtrapolationTime: 21.658390299479155
     m_DisplayName: TextFadeOut
-  - m_Start: 38.90000000000008
+  - m_Start: 39.92505696614592
     m_ClipIn: 0
     m_Asset: {fileID: 114437327327438094}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -5204,7 +5180,7 @@ MonoBehaviour:
   m_Parent: {fileID: 11400000}
   m_Children: []
   m_Clips:
-  - m_Start: 20.86666666666666
+  - m_Start: 21.891723632812504
     m_ClipIn: 0
     m_Asset: {fileID: 114343373025072894}
     m_UnderlyingAsset: {fileID: 7400000, guid: 23ea62d975dc54cd9a036a915053fee6, type: 2}
@@ -5267,9 +5243,9 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: 4.966666666666669
-    m_PreExtrapolationTime: 20.86666666666666
+    m_PreExtrapolationTime: 21.891723632812504
     m_DisplayName: TextFadeIn
-  - m_Start: 26.83333333333333
+  - m_Start: 27.858390299479172
     m_ClipIn: 0
     m_Asset: {fileID: 114959709363519764}
     m_UnderlyingAsset: {fileID: 7400000, guid: c37f90edd45e5442eb8e7be845b97f74, type: 2}
