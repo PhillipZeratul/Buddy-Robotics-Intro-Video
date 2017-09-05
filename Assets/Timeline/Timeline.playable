@@ -30,7 +30,7 @@ MonoBehaviour:
   - {fileID: 114109781654642602}
   m_FixedDuration: 0
   m_EditorSettings:
-    fps: 24
+    fps: 60
   m_UpdateMode: 0
   m_ParameterName: 
   m_DurationMode: 0
@@ -1990,8 +1990,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CaptureEveryNthFrame: 1
   m_FrameRateMode: 1
-  m_FrameRate: 24
-  m_FrameRateExact: 8
+  m_FrameRate: 60
+  m_FrameRateExact: 512
   m_StartFrame: 0
   m_EndFrame: 10
   m_StartTime: 0
