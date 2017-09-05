@@ -1696,7 +1696,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 533239070}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.06, y: -0.12750572, z: -7.5762534}
+  m_LocalPosition: {x: 0, y: 0, z: -13.460001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4087,7 +4087,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1647245473}
-  m_Text: "Buddy\n\u795E\u5947\u7684\u7269\u7406\u7CFB\u5217"
+  m_Text: "Buddy\n\u795E\u5947\u79D1\u5B66\u7CFB\u5217"
   m_OffsetZ: 0
   m_CharacterSize: 0.12
   m_LineSpacing: 1
@@ -4882,7 +4882,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1973046172}
-  m_Text: "Buddy\n\u6D82\u9E26\u8BB2\u6545\u4E8B\u7CFB\u5217"
+  m_Text: "Buddy\n\u6545\u4E8B\u8BD7\u8BCD\u7CFB\u5217"
   m_OffsetZ: 0
   m_CharacterSize: 0.12
   m_LineSpacing: 1
@@ -5112,7 +5112,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2052478261}
-  m_Text: "Buddy\n\u624B\u7ED8\u8BFE\u7A0B\u7CFB\u5217 "
+  m_Text: "Buddy\n\u4EB2\u5B50\u6D82\u9E26\u7CFB\u5217"
   m_OffsetZ: 0
   m_CharacterSize: 0.12
   m_LineSpacing: 1
